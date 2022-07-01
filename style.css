@@ -1,57 +1,106 @@
 body {
     background-color: #737373;
+    margin-bottom: 50px;
+    padding-top: 0px;
   }
 
   header{
     background-color: white;
     margin-left: 50px;
     margin-right: 50px;
-    margin-top: 80px;
+    margin-top: 50px;
+    height: 100px;
+    
   }
 
 h1{
-    color: #ee495d;
+    color: #363535;
     font-size: 50px;
+    padding-top: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 main{
     background-color: white;
     margin-left: 50px;
     margin-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 address{
-    background-color: aqua;
+    background-color:rgb(91, 91, 91);
+    margin-right: 80px;
+    margin-left: 80px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    border-style: dotted;
+    border-width: 2px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    height: 100px;
+    color: azure;
 }
-
+div{
+    
+    margin-right: 80px;
+    margin-left: 80px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
 section{
-    border: 1px solid black;
+    
+    border-style:dotted;
+    border-width: 2px;
     margin-top: 0px;
     margin-bottom: 10px;
     margin-right: 80px;
     margin-left: 80px;
-    background-color: #d98b94;
+    background-color: rgb(237, 202, 202);
     padding-top: 5px;
     padding-bottom: 15px;
     padding-left: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
 }
 ul{
-    color: white;
+    color: rgb(62, 59, 59);
 }
 
 ol{
-    color: white;
+    color: rgb(62, 59, 59);
 }
 
 p{
-    color: white;
+    color: rgb(62, 59, 59);
 }
 
 footer{
-    background-color: white;
+    background-color: rgb(237, 202, 202);
     margin-left: 50px;
     margin-right: 50px;
-
+    padding-top: 5px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
 }
 
-p.dotted {border-style: dotted;}
+a{
+   margin-bottom: 10px;
+   margin-left: 30%;
+   color: rgb(57, 54, 54);
+}
+
+h2{
+    color: #a54a6d;
+}
+
+img {
+    float: right;
+    padding-top: 20px;
+    padding-right: 20px;
+
+  }
